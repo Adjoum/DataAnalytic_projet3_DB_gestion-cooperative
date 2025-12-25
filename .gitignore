@@ -1,0 +1,22 @@
+# Fichiers de configuration sensibles
+connexion_to_DB.php
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.log
+
+# Dossiers IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
+
+# Dossiers de cache
+cache/
+temp/
